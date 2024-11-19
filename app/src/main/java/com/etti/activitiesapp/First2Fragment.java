@@ -11,6 +11,9 @@ import androidx.navigation.fragment.NavHostFragment;
 
 import com.etti.activitiesapp.databinding.FragmentFirst2Binding;
 
+/**
+ * Class for the first fragment
+ */
 public class First2Fragment extends Fragment {
 
     private FragmentFirst2Binding binding;
